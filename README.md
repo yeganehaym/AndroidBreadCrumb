@@ -5,7 +5,7 @@
 
 breadcumb of above created by a code like this in one of my project
 
-i's smart to control itself in any screenSize and control items when screen has no space anymore to fit items
+it's smart to control itself in any screenSize and control items when screen has no space anymore to fit items
 
 `
 
