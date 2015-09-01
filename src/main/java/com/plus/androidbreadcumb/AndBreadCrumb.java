@@ -104,6 +104,7 @@ public class AndBreadCrumb {
             @Override
             public void onClick(View v) {
 
+                SetPosition(position);
                 clickListener.onClick(position, Id);
             }
         });
